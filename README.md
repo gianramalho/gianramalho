@@ -42,10 +42,3 @@ Olá, me chamo Gian Lucas.
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Vue.JS](https://img.shields.io/badge/-Vue-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-<div>
-  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=gianramalho&show_icons=true&theme=dracula&hide_border=true">
-  <img height="138em" src="https://github-readme-streak-stats.herokuapp.com/?user=gianramalho&theme=dracula&hide_border=true"></a>&nbsp;
-  <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianramalho&layout=compact&theme=dracula&hide_border=true">
-</div>
